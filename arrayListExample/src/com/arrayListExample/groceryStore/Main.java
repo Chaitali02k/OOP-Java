@@ -9,10 +9,10 @@ public class Main {
 		grocerylist.addItem("Cheese");
 		grocerylist.addItem("Tomato");
 		grocerylist.addItem("Beer");
-		
+
 		grocerylist.printItem();
 		grocerylist.modifiedItem(1, "Schokolade");
-		//grocerylist.removeItem(1);
+		// grocerylist.removeItem(1);
 		grocerylist.findItem("cheese");
 		grocerylist.printItem();
 
