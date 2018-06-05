@@ -10,7 +10,7 @@ public class ReverseArrayList {
 		ArrayList<Integer> numbers = new ArrayList<>();
 
 		numbers.add(3);
-		numbers.add(6);
+		numbers.add(5);
 		numbers.add(9);
 		numbers.add(12);
 		
